@@ -39,7 +39,7 @@ MANAGERS = ADMINS
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = '92ru!(k4g_-qv!o)2@jte#xjb+^ygna%!%1ufrc25oj1t_fc3u'
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["0.0.0.0", "127.0.0.1", "localhost"]
 
 
 # Application definition
